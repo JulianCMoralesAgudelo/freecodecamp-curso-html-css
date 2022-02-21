@@ -1,0 +1,19 @@
+img[alt] {
+    border-radius: 50%;
+}
+
+[type="radio"]{
+    margin: 25px;
+}
+
+
+[type="checkbox"]{
+    margin: 8px;
+}
+
+a[href="https://www.freecodecamp.org/espanol/"]{
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+}
+
